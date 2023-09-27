@@ -4,4 +4,7 @@
 #materiales a utilizar 
 
 |Nombre del componente|DEscripción|Cantidad|Precio|
+|-|-|-|
+
+
 
