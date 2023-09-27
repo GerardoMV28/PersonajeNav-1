@@ -1,12 +1,9 @@
-# PersonajeNav
-## Grupo
--
-## Nombre de los integrantes del equipo
--
 ## Nombre del personaje
-- Nombre de tu personaje
-- 
-## Materiales a utilizar
+- Angel de la Guarda
+#Integrantes
+- Karen Linette Cabrera Vidal
+- Gerardo Manzano Villafaña
+##Materiales a utilizar
 |Nombre del componenete|Descripción|Contidad|Precio|
 |-|-|-|-|
 |ESP32|Microcontrolador con 30 pines con municacion WiFi y Bluetooth|1|$140.00|
@@ -19,18 +16,11 @@ Completa la tabla
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software libre|
 Completa la tabla
-
 ## Prototipo de dibujo
 - Fotografia del dibujo a mano alzada de tu personaje
-- 
 ## Comunicación
 - Describir la manera que creen que utlizaría su celular para comunicarse con su personaje.
-- 
 ## Arquitectura
 - Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
-- 
 ## Base de datos
-- Imagen tabla o tablas que usarias ( EJ. sensores, actuadores, en un modelo relaciones)
-
-
-
+- Imagne tabla o tablas que usuarias ( EJ. sensores, actuadores, en un modelo relacional)
